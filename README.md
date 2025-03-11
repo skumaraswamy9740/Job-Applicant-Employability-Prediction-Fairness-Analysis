@@ -8,3 +8,6 @@ https://onlinelibrary.wiley.com/doi/10.1155/2014/781670
 
 More info on dataset:
 https://fairlearn.org/main/user_guide/datasets/diabetes_hospital_data.html
+
+Research Paper for Adverisial Neural Network Fairness Intervention:
+Achieving Fairness with Decision Trees: An Adversarial Approach (Vincent Grari1  · Boris Ruf2 · Sylvain Lamprier1 · Marcin Detyniecki2)
